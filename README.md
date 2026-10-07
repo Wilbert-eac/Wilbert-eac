@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Wilbert-eac/Wilbert-eac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Wilbert, a junior software engineer in Mexico.
 
-Here are some ideas to get you started:
+I design and build whatever I can imagine. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If I come up with an idea, I’ll most likely develop and launch it.
+
+As a junior developer, my tech stack includes HTML, CSS, JS, React, PHP, MySQL, and TypeScript.
+
+I am currently re-developing and publishing projects I’ve worked on, but my favorite is a Wear OS app suite consisting of a watch face and a set of applications.
+
+I’ve also been learning about networking to help me transition into the field of cybersecurity.
+
+## Fun facts:
+
+- I love swimming.
+- I don't like the cold.
+- Overwatch and WoW are my favorite games.
+- Hobbies : swimming, video games, gym.
